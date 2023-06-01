@@ -626,7 +626,13 @@
         "__uuid__": "25c48478-c885-4a72-966a-6ea5076c6246"
       }
     ],
-    "flySpeed": 100,
+    "flySpeed": 500,
+    "initialPosition": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": -400,
+      "z": 0
+    },
     "_id": "dcBEi0K/VDkI65hDKEXBmw"
   },
   {
